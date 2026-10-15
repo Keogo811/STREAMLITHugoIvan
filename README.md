@@ -1,3 +1,5 @@
+Student Execise, nothing impressive.
+
 Greetings teacher.
 This dashboard shows information about the Iris flower dataset.
 
@@ -14,6 +16,3 @@ How to do use this app:
 The loading for the first time can be a bit long, do not worry.
 You can now test and interact with the streamlit dashboard.
 Thank you for testing this class project exercise on Streamlit.
-
-
-Hugo KINGKEOMANIVONG and Christ-Ivan PGE1 EN
